@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+header{
+    background-color: #106eea;
+}
+.nav-item .nav-link, .navbar-brand{
+    color: white;
+}
+.navbar-toggler-icon .fa-bars{
+    color: white;
+}
